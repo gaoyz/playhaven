@@ -27,7 +27,7 @@
 #import "PHReward.h"
 #import "PHPurchase.h"
 #import "PHPublisherIAPTrackingRequest.h"
-#import "JSON.h"
+#import "PHJSON.h"
 #import "PHTimeInGame.h"
 #import "PHAPIRequest+Private.h"
 

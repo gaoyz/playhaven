@@ -22,7 +22,7 @@
 #import "PHContentView.h"
 #import "PHContent.h"
 #import "NSObject+QueryComponents.h"
-#import "JSON.h"
+#import "PHJSON.h"
 #import "PHConstants.h"
 #import "PHStoreProductViewControllerDelegate.h"
 #import "PHConnectionManager.h"

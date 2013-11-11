@@ -25,7 +25,7 @@
 
 #import "NSObject+QueryComponents.h"
 #import "PHStringUtil.h"
-#import "JSON.h"
+#import "PHJSON.h"
 #import "UIDevice+HardwareString.h"
 #import "PHNetworkUtil.h"
 #import "PHConstants.h"
